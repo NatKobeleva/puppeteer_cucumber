@@ -16,3 +16,4 @@ Scenario: User books two movie tickets
     When the user selects the second available seat
     When the user clicks the booking button
     Then the user should see the confirmation message "Получить код бронирования"
+
